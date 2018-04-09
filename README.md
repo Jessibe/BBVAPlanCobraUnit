@@ -31,6 +31,8 @@ El servicio ofrece:
 * Puedes disponer del ahorro siempre que quieras.
 * El plan es totalmente <strong>*GRATUITO*</strong>.
 
+![SiteMap](assets/images/MAPA.png)
+
 La app ofrece:
 * Tener un seguimiento de tu ahorro, para conocer la cantidad que te falta para llegar a tu meta.
 * Llevar control de tus movimientos y la cantidad destinada a tus ahorros.
