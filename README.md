@@ -2,6 +2,8 @@
 
 ![BBVA Plan](https://raw.githubusercontent.com/Samahara/BBVAPlanCobraUnit/master/assets/images/bbva-plan.png)
 
+## Elaborado para [Laboratoria](http://www.laboratoria.la/)
+
 ### Objetivo
 
 Investigar y desarrollar la oportunidad de agregar la funcionalidad de "metas compartidas" en el app de BBVA Plan. También con el objetivo de utilizarlo como una herramienta de crecimiento al buscar involucrar usuarios que no tienen BBVA Plan o una cuenta de BBVA Bancomer.
@@ -68,5 +70,3 @@ La encuesta fue lanzada en canales como Facebook, con un mensaje amigable para v
 ![Encuesta](assets/images/Encuesta.png)
 
 [Encuesta de Google Forms](https://goo.gl/forms/h22kI5WfJ4Vkvlw72)
-
-## Elaborado para [Laboratoria](http://www.laboratoria.la/)
