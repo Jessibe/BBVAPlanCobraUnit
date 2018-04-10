@@ -1,6 +1,6 @@
 # BBVA Plan
 
-![BBVA Plan](assets/images/bbva-plan.png)
+![BBVA Plan](https://raw.githubusercontent.com/Samahara/BBVAPlanCobraUnit/master/assets/images/bbva-plan.png)
 
 ### Objetivo
 
@@ -31,6 +31,8 @@ El servicio ofrece:
 * Puedes disponer del ahorro siempre que quieras.
 * El plan es totalmente <strong>*GRATUITO*</strong>.
 
+![SiteMap](assets/images/MAPA.png)
+
 La app ofrece:
 * Tener un seguimiento de tu ahorro, para conocer la cantidad que te falta para llegar a tu meta.
 * Llevar control de tus movimientos y la cantidad destinada a tus ahorros.
@@ -55,7 +57,7 @@ Sin embargo, las personas ocupan otro tipo de herramientas y métodos para salir
 
 Pensando en eso, dirijimos toda nuestra atención a entender lo que era BBVA Plan, y pensar en quién era el público de esta aplicación.
 
-<!-- ![User persona]() -->
+![User persona](assets/images/user-persona.jpg)
 
 <!-- ![User persona]() -->
 
