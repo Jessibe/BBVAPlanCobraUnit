@@ -61,7 +61,7 @@ Pensando en eso, dirijimos toda nuestra atención a entender lo que era BBVA Pla
 
 ![User persona](assets/images/user-persona.jpg)
 
-<!-- ![User persona]() -->
+![User persona1](assets/images/UP-clase-media.png)
 
 Entendiendo sobre ellos, buscar el público que creemos que podrían interesarse en la app y en metas compartidas. Para lograrlo, el equipo lanzó una primera encuesta, con el objetivo de entender a estos usuarios que aún no cuentan con una cuenta bancaria o que desconocen la existencia de BBVA Plan. Y saber un poco sobre sus hábitos de ahorro.
 
