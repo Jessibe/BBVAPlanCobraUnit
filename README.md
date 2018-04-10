@@ -66,3 +66,5 @@ La encuesta fue lanzada en canales como Facebook, con un mensaje amigable para v
 ![Encuesta](assets/images/Encuesta.png)
 
 [Encuesta de Google Forms](https://goo.gl/forms/h22kI5WfJ4Vkvlw72)
+
+## Elaborado para [Laboratoria](http://www.laboratoria.la/)
