@@ -1,6 +1,6 @@
 # BBVA Plan
 
-![BBVA Plan](assets/images/bbva-plan.png)
+![BBVA Plan](https://raw.githubusercontent.com/Samahara/BBVAPlanCobraUnit/master/assets/images/bbva-plan.png)
 
 ### Objetivo
 
