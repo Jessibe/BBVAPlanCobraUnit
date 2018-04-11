@@ -70,3 +70,13 @@ La encuesta fue lanzada en canales como Facebook, con un mensaje amigable para v
 ![Encuesta](assets/images/Encuesta.png)
 
 [Encuesta de Google Forms](https://goo.gl/forms/h22kI5WfJ4Vkvlw72)
+
+### Insights
+
+Con base a los resultados obtenidos en la encuesta, se obtuvieron los siguientes Insights:
+
+* Los usuarios no tienen educación financiera o hábito del ahorro ya que el 72.6% tienen el suficiente ingreso para hacer un ahorro pero no lo realizan.
+
+* A pesar de que confían en los bancos, no lo utilizan para ahorrar porque el 60.8%  no le genera desconfianza que el banco tenga sus datos.
+
+* Los usuarios sólo ahorran para metas a corto plazo ya que el 70.6% ahorra para gastos próximos como vacaciones, eventos, regalos, etc.
