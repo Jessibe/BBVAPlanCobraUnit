@@ -2,7 +2,7 @@
 
 ![BBVA Plan](https://raw.githubusercontent.com/Samahara/BBVAPlanCobraUnit/master/assets/images/bbva-plan.png)
 
-## Elaborado para Laboratoria [Joali Gamboa](http://www.laboratoria.la/)
+## Elaborado por [Joali Gamboa](https://invis.io/M7GS95C9SCA)
 
 ### Objetivo
 
